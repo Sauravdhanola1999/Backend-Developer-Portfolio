@@ -97,7 +97,7 @@ export default function Home() {
                 sauravsingh16101999@gmail.com
               </a>
               <a className="text-gray-300 hover:text-code-blue" href="tel:+916301809631">
-                +91 91 63018 09631
+                +91 63018 09631
               </a>
               <a className="text-gray-300 hover:text-code-blue" href="https://www.linkedin.com/in/saurav-dhanola-1ba75b36b/" target="_blank" rel="noopener noreferrer">
                 GitHub
