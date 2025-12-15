@@ -301,7 +301,7 @@ export default function Home() {
             </div>
             <div className="rounded-lg border border-gray-700/30 bg-gray-900/40 p-4 animate-fade-in-up animate-delay-900">
               <p className="text-sm font-mono text-code-blue">GitHub</p>
-              <a className="text-gray-300 hover:text-code-blue" href="https://www.linkedin.com/in/saurav-dhanola-1ba75b36b/" target="_blank" rel="noopener noreferrer">
+              <a className="text-gray-300 hover:text-code-blue" href="https://github.com/Sauravdhanola1999" target="_blank" rel="noopener noreferrer">
                 github.com/Sauravdhanola1999
               </a>
             </div>
