@@ -96,7 +96,7 @@ export default function Home() {
               <a className="text-gray-300 hover:text-code-blue" href="mailto:sauravsingh16101999@gmail.com" target="_blank" rel="noopener noreferrer">
                 sauravsingh16101999@gmail.com
               </a>
-              <a className="text-gray-300 hover:text-code-blue" href="tel:+911916301809631">
+              <a className="text-gray-300 hover:text-code-blue" href="tel:+916301809631">
                 +91 91 63018 09631
               </a>
               <a className="text-gray-300 hover:text-code-blue" href="https://github.com/Sauravdhanola1999" target="_blank" rel="noopener noreferrer">
@@ -295,8 +295,8 @@ export default function Home() {
             </div>
             <div className="rounded-lg border border-gray-700/30 bg-gray-900/40 p-4 animate-fade-in-up animate-delay-800">
               <p className="text-sm font-mono text-code-blue">Phone</p>
-              <a className="text-gray-300 hover:text-code-blue" href="tel:+911916301809631">
-                +91 191 63018 09631
+              <a className="text-gray-300 hover:text-code-blue" href="tel:+916301809631">
+                +91 63018 09631
               </a>
             </div>
             <div className="rounded-lg border border-gray-700/30 bg-gray-900/40 p-4 animate-fade-in-up animate-delay-900">
